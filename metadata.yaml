@@ -1,4 +1,8 @@
 _repo: The-Truth-About-German-Atrocities-Founded-on-the-Report-of-The-Committee-on-Alleged-German-Ou__50788
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50788-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50788#The-Truth-About-German-Atrocities-Founded-on-the-Report-of-The-Committee-on-Alleged-German-Ou_
 gutenberg_issued: '2015-12-29'
 gutenberg_type: Text
 identifiers:
